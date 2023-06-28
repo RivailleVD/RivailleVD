@@ -5,6 +5,10 @@
 - ⛹🏼 Hobbies: Games, Animes, Mangás, Livros, Artes Marciais ...
 - 📕 Em Constante Aprendizado...
 
+<body background="https://pin.it/1b4nqmf">
+    <!-- Conteúdo da página -->
+</body>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RivailleVD&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RivailleVD&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
