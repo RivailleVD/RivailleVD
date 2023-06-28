@@ -5,10 +5,6 @@
 - ⛹🏼 Hobbies: Games, Animes, Mangás, Livros, Artes Marciais ...
 - 📕 Em Constante Aprendizado...
 
-<body background="https://pin.it/1b4nqmf">
-    <!-- Conteúdo da página -->
-</body>
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RivailleVD&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RivailleVD&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -18,7 +14,8 @@
    <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /> 
   <img  align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" />
-  <img  align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />                       
+  <img  align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />  
+    <img  align="right" alt="Rafa-CSS" height="100" width="120" src="https://cdn.discordapp.com/attachments/1048950338528477276/1123711858357063781/miku.gif"/>
 </div>
 
 ##
