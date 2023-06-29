@@ -1,8 +1,7 @@
 ### SAUDAÇÕES 👋
 
 - 🌱 Estudando Análise e Desenvolvimento de Sistemas(3/5)
-- 😄 Gênero: ♂️
-- ⛹🏼 Hobbies: Games, Animes, Mangás, Livros, Artes Marciais ...
+- ⛹🏼 Hobbies: Programação, Games, Animes, Mangás, Livros, Artes Marciais ...
 - 📕 Em Constante Aprendizado...
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RivailleVD&show_icons=true&theme=radical)
