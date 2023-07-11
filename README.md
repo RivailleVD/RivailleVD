@@ -25,6 +25,7 @@
  <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 <a href="mailto:rivaillevd@tutanota.com" target="_blank"><img src="https://img.shields.io/badge/Tutanota-840010?style=for-the-badge&logo=Tutanota&logoColor=white"></a>
  <a href = "mailto:levyp56@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <br>
  <a href = "https://bolha.us/@Rivaille_VD"><img src="https://greekreporter.com/wp-content/uploads/2022/11/Mastodon_logotype_simple_new_hue.svg_.png"  height="35" width="30"></a>
   
 </div>
