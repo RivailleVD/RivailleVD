@@ -14,7 +14,7 @@
    <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /> 
   <img  align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" />
   <img  align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />  
-    <img  align="right" alt="Rafa-CSS" height="50" width="50" src="https://cdn.discordapp.com/attachments/1048950338528477276/1123711858357063781/miku.gif"/>
+    <img  align="right" alt="Rafa-CSS" height="100" width="120" src="https://cdn.discordapp.com/attachments/1048950338528477276/1123711858357063781/miku.gif"/>
 </div>
 
 ##
@@ -25,6 +25,6 @@
  <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 <a href="mailto:rivaillevd@tutanota.com" target="_blank"><img src="https://img.shields.io/badge/Tutanota-840010?style=for-the-badge&logo=Tutanota&logoColor=white"></a>
  <a href = "mailto:levyp56@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- <a href = "https://bolha.us/@Rivaille_VD"><img src="https://greekreporter.com/wp-content/uploads/2022/11/Mastodon_logotype_simple_new_hue.svg_.png"  height="100" width="120"></a>
+ <a href = "https://bolha.us/@Rivaille_VD"><img src="https://greekreporter.com/wp-content/uploads/2022/11/Mastodon_logotype_simple_new_hue.svg_.png"  height="50" width="50"></a>
   
 </div>
