@@ -14,7 +14,7 @@
    <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /> 
   <img  align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" />
   <img  align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />  
-    <img  align="right" alt="Rafa-CSS" height="100" width="120" src="https://cdn.discordapp.com/attachments/1048950338528477276/1123711858357063781/miku.gif"/>
+    <img  align="right" alt="Rafa-CSS" height="100" width="120" src="https://discord.com/channels/1048950337983238184/1048950338528477276/1123711858684203089/>
 </div>
 
 ##
