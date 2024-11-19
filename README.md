@@ -13,8 +13,9 @@
    <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /> 
   <img  align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" />
-  <img  align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />  
-    <img  align="right" alt="Rafa-CSS" height="100" width="120" src="https://discord.com/channels/1048950337983238184/1048950338528477276/1123711858684203089/miku.gif">
+  <img  align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" /> 
+    <img  align="right" alt="Rafa-CSS" height="100" width="120" src=" ![miku](https://github.com/user-attachments/assets/0a8be1ca-1075-4105-ab91-a28f1e6812f0)
+">
 </div>
 
 ##
